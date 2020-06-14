@@ -1,0 +1,88 @@
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\bin\Release\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Release\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Release\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Release\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Release\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Release\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Release\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Release\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Release\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Release\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Release\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Release\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Release\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Release\netcoreapp2.1\appsettings.json
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Release\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Release\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Release\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Release\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Release\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Release\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Release\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Release\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Release\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Release\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Release\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Release\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Release\netcoreapp2.1\Fiszki.genruntimeconfig.cache

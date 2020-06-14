@@ -1,0 +1,14 @@
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\bin\Debug\netcoreapp2.1\ClevNote.deps.json
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\bin\Debug\netcoreapp2.1\ClevNote.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\bin\Debug\netcoreapp2.1\ClevNote.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\bin\Debug\netcoreapp2.1\ClevNote.dll
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\bin\Debug\netcoreapp2.1\ClevNote.pdb
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\obj\Debug\netcoreapp2.1\ClevNote.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\obj\Debug\netcoreapp2.1\ClevNote.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\obj\Debug\netcoreapp2.1\ClevNote.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\obj\Debug\netcoreapp2.1\ClevNote.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\obj\Debug\netcoreapp2.1\ClevNote.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\obj\Debug\netcoreapp2.1\ClevNote.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\obj\Debug\netcoreapp2.1\ClevNote.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\obj\Debug\netcoreapp2.1\ClevNote.dll
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API — kopia (2)\Fiszki\obj\Debug\netcoreapp2.1\ClevNote.pdb

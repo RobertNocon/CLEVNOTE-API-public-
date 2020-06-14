@@ -1,0 +1,134 @@
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.deps.json
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.json
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.dll
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.pdb
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.dll
+C:\Users\Robert\Desktop\EF test\5. TopFiszki proba 2\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.pdb
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.deps.json
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.json
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.dll
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.pdb
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.dll
+C:\ITF cwiczenia 2\Zajęcia 59. TOP FISZKI\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI\_BACKUP 05.07.19\Backend\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend - coonection stringi webio\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend 3\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\TOP FISZKI v2\Backend master\Fiszki\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Debug\netcoreapp2.1\appsettings.json
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\MOJE PROJEKTY WWW\Backend API master\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.genruntimeconfig.cache
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Debug\netcoreapp2.1\appsettings.json
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\Backend API master V2 POPRAWIONA\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.genruntimeconfig.cache
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.deps.json
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.json
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.runtimeconfig.dev.json
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\bin\Debug\netcoreapp2.1\Fiszki.pdb
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csprojAssemblyReference.cache
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.csproj.CoreCompileInputs.cache
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorAssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfoInputs.cache
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.AssemblyInfo.cs
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.RazorTargetAssemblyInfo.cache
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.dll
+D:\MOJE PROJEKTY WWW\NA GITHUBA !!!!!\CLEVNOTE_API\Fiszki\obj\Debug\netcoreapp2.1\Fiszki.pdb
